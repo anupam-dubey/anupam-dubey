@@ -2,7 +2,7 @@
 - 👀 I’m interested in embedded system
 - 🌱 I’m currently learning stm32 arm
 - 💞️ I’m looking to collaborate on STEAM education based development
-- 📫 How to reach me ...
+- 📫 dubey.anupam@gmail.com
 
 <!---
 anupam-dubey/anupam-dubey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
